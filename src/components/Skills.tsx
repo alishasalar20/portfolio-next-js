@@ -20,7 +20,11 @@ const Skills1: React.FC = () => {
 
   return (
     <div id="skillsContainer">
+        <h1 id="skill-heading">
+        <span>My</span>&nbsp;Expertise
+      </h1>
       <div id="skillItem">
+      
         <div id="skillInfo">
         <i className="bx bxl-html5 icon"></i>
           <span id="skillName">HTML</span>

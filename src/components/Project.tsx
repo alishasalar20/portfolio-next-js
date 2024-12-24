@@ -3,7 +3,11 @@ import 'boxicons/css/boxicons.min.css';
 const Project1 = () => {
   return (
     <div id="projects">
+      <h1 id="project-heading">
+        Pro<span>ject</span>
+      </h1>
     <div id="project project-1">
+    
       <h3>Resume Builder <i className="bx bxs-spreadsheet"></i></h3>
       <p>A responsive Resume Builder website built with HTML, CSS, and TypeScript.</p>
       <a href="/" target="_blank" rel="noopener noreferrer" id="project-link">View Project</a>
